@@ -1,5 +1,8 @@
 # CCL-2025-Chinese-Poetry-Understanding-and-Reasoning-Evaluation-Task
 第一届古诗词理解和推理评测任务
+## 任务奖项
+本届评测将设置一、二、三等奖，提供总额为10000元的奖金。所有奖金将在公布奖项后10个工作日内发布。
+
 ## 任务简介
 
 古诗词理解和推理评测任务旨在测试自然语言模型对古诗词的内容、情感理解与推理能力。古诗词具有高度的凝练性和语言的音乐美，不仅需要掌握古诗的语言特色，还需要结合历史、文化背景的知识，从而进行综合性的推理与理解。
@@ -75,12 +78,13 @@
 ## 提交结果格式
 
 **提交的结果应为 `result.json` 文件，格式如下：**
-
+请将结果提交到23S151077@stu.hit.edu.cn，命名格式为ccl-队名-test.json
+建议英文队名
 ```json
 {
     "ans_qa_words": {"泊": "", "商女": "", "后庭花": ""},
     "ans_qa_sents": {"烟笼寒水月笼沙": "", "夜泊秦淮近酒家": ""},
-    "choose_id": A
+    "choose_id": "A"
 }
 ```
 ##  评价指标
@@ -109,8 +113,16 @@
   year={2018}
 }
 ```
+如果你对我们的工作感兴趣，欢迎查看我们的工作
+```
+@article{chen2024benchmarking,
+  title={Benchmarking llms for translating classical chinese poetry: Evaluating adequacy, fluency, and elegance},
+  author={Chen, Andong and Lou, Lianzhang and Chen, Kehai and Bai, Xuefeng and Xiang, Yang and Yang, Muyun and Zhao, Tiejun and Zhang, Min},
+  journal={arXiv preprint arXiv:2408.09945},
+  year={2024}
+}
+```
 ## 任务联系人
 裴振武 
 联系方式：（哈尔滨工业大学（深圳），23S151077@stu.hit.edu.cn）
-## 任务奖项
-本届评测将设置一、二、三等奖，提供总额为10000元的奖金。所有奖金将在公布奖项后10个工作日内发布。
+
