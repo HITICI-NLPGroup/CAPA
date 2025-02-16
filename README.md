@@ -2,7 +2,7 @@
 第一届古诗词理解和推理评测任务
 <br>
 <div style="text-align: center;">
-  <img src="参考.jpg" width="300" height="300" />
+  <img src="参与.jpg" width="300" height="300" />
 </div>
 
 ## 任务奖项
