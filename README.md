@@ -1,10 +1,6 @@
 # CCL-2025-Chinese-Poetry-Understanding-and-Reasoning-Evaluation-Task
 第一届古诗词理解和推理评测任务
 <br>
-<div style="text-align: center;">
-  <img src="ccl群聊.jpg" width="300" height="300" />
-</div>
-
 ## 任务奖项
 本届评测将设置一、二、三等奖，提供总额为6000元的奖金。所有奖金将在公布奖项后10个工作日内发布。
 
